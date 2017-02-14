@@ -263,6 +263,7 @@ The model correcly predicts this image with 100% certainty.
 The model correcly predicts this image, but certainty is much lower, in fact closely followed by Turn left ahead sign with just 5% of difference in the certainty level.
 
 ![Grayed images][image9]
+
 |Rank|Prediction|Probability|
 |:----:|:----:|:---------------------------------------------:| 
 |1| Speed limit (60km/h) (3)| 52.6%   |
@@ -273,6 +274,7 @@ The model correcly predicts this image, but certainty is much lower, in fact clo
 The model correcly predicts this image with 100% certainty. 
 
 ![Grayed images][image10]
+
 |Rank|Prediction|Probability|
 |:----:|:----:|:---------------------------------------------:| 
 |1| Pedestrians (27) |100.0%   |
@@ -285,6 +287,7 @@ Model is **not able to correctly predic** this sign and correct answer is not ev
 This may be due to not be a cropped image.
 
 ![Grayed images][image11]
+
 |Rank|Prediction|Probability|
 |:----:|:----:|:---------------------------------------------:| 
 |1| End of all speed and passing limits (32) |95.6%   |
@@ -296,6 +299,7 @@ This may be due to not be a cropped image.
 The model correcly predicts this image with almost a 100% certainty. 
 
 ![Grayed images][image12]
+
 |Rank|Prediction|Probability|
 |:----:|:----:|:---------------------------------------------:| 
 |1| Road work (25) |99.9%|   
