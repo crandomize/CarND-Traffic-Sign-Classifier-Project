@@ -42,6 +42,9 @@ This document is the writeup of the Project "Traffic Sign Recognition".  It expl
 
 Link to my [project code](https://github.com/crandomize/CarND-Traffic-Sign-Classifier-Project)
 
+Direct Link to [IPython Notebook](https://github.com/crandomize/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+
+
 ### Data Set Summary & Exploration
 
 #### 1. Summary of the data set.
